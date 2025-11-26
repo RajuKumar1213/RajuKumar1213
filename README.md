@@ -1,16 +1,51 @@
-## Hi there 👋
 
+# 👋 Hi there, I’m **Rajiv**
+
+### 🚀 Full-Stack Developer | MERN & React Native 
+
+I’m a developer who loves building real-world products — from CRM systems to e-commerce, food ordering apps, AI tools, and mobile apps. I keep things simple, clean, and powerful.
+
+---
+
+## 🌱 I’m currently learning
+
+* Next.js (Advanced)
+* Docker (production setup)
+* Scalable backend architecture
+* Shopify, CRM & MLM systems
+
+---
+
+## 👯 I’m looking to collaborate on
+
+* MERN & React Native projects
+* AI automation tools
+* E-commerce apps
+* CRM & ERP systems
+
+---
+
+## 💬 Ask me about
+
+* MERN Stack (Node, Express, MongoDB, React, Redux)
+* React Native
+* Backend architecture
+* E-commerce performance optimization
+* Twilio call integration
+* Role-based authentication & dashboards
+
+---
 <!--
-**RajuKumar1213/RajuKumar1213** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📫 How to reach me
 
-Here are some ideas to get you started:
+* **Email:** rajuvis778@gmail.com
+* **LinkedIn:** your-linkedin-link
+* **Portfolio:** your-website-link (if you have one)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+## ⚡ Fun fact
+
+I build apps fast, break them faster, and fix them like a pro. 😎🔥
+And yes, I lift — gym is therapy. 💪
+
