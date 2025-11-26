@@ -38,7 +38,7 @@ I’m a developer who loves building real-world products — from CRM systems to
 ## 📫 How to reach me
 
 * **Email:** rajuvis778@gmail.com
-* **Portfolio:** [My Portfolio - (https://portfolio-bice-nine-70.vercel.app)
+**🌐 Portfolio:** [Visit my website](https://portfolio-bice-nine-70.vercel.app)
 <!--
 * **LinkedIn:** your-linkedin-link
 
