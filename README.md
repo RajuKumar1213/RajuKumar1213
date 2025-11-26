@@ -35,12 +35,12 @@ I’m a developer who loves building real-world products — from CRM systems to
 * Role-based authentication & dashboards
 
 ---
-<!--
 ## 📫 How to reach me
 
 * **Email:** rajuvis778@gmail.com
+* **Portfolio:** [your-website-link (if you have one)](https://portfolio-bice-nine-70.vercel.app)
+<!--
 * **LinkedIn:** your-linkedin-link
-* **Portfolio:** your-website-link (if you have one)
 
 -->
 
