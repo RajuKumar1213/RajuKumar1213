@@ -1,51 +1,18 @@
+# Rajiv
 
-# 👋 Hi there, I’m **Rajiv**
+Full-Stack Developer from India 🇮🇳
 
-### 🚀 Full-Stack Developer | MERN & React Native 
+Building with React, Next.js, Node.js, PostgreSQL, React Native & AI.
 
-I’m a developer who loves building real-world products — from CRM systems to e-commerce, food ordering apps, AI tools, and mobile apps. I keep things simple, clean, and powerful.
+Currently working on **Obsidian Scholar** 📚
 
----
+* ⚛️ React / Next.js
+* 🚀 Node.js / Express
+* 🗄️ PostgreSQL / MongoDB
+* 📱 React Native
+* 🤖 AI & RAG Applications
+* 🐳 Docker & VPS Deployments
 
-## 🌱 I’m currently learning
+📫 [rajuvis778@gmail.com](mailto:rajuvis778@gmail.com)
 
-* Next.js (Advanced)
-* Docker (production setup)
-* Scalable backend architecture
-* Shopify, CRM & MLM systems
-
----
-
-## 👯 I’m looking to collaborate on
-
-* MERN & React Native projects
-* AI automation tools
-* E-commerce apps
-* CRM & ERP systems
-
----
-
-## 💬 Ask me about
-
-* MERN Stack (Node, Express, MongoDB, React, Redux)
-* React Native
-* Backend architecture
-* E-commerce performance optimization
-* Twilio call integration
-* Role-based authentication & dashboards
-
----
-## 📫 How to reach me
-
-* **Email:** rajuvis778@gmail.com
-**🌐 Portfolio:** [Visit my website](https://portfolio-bice-nine-70.vercel.app)
-<!--
-* **LinkedIn:** your-linkedin-link
-
--->
-
-## ⚡ Fun fact
-
-I build apps fast, break them faster, and fix them like a pro. 😎🔥
-And yes, I lift — gym is therapy. 💪
-
+🌐 portfolio-bice-nine-70.vercel.app
